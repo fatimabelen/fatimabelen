@@ -1,13 +1,13 @@
 <h1 align="center">Hello World</h1>
-<p align="center"> I'm Fátima, a developer exploring technologies to find my path </p>
+<p align="center"> I'm Fátima, a developer exploring technology </p>
 
 - 🔭 I’m currently working on **my final project for university**
 
-- 📝 I'm interested in **backend development and data**
+- 📝 I'm interested in **Data and backend development**
 
 - 🎓 I studied a technical degree in **programming**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **data analysis and web development**
 
 - 🌎 I'm from **Argentina**
 
